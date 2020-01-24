@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Text Reader</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="no_text">[No Text]</string>
+    <string name="no_text_found">No text found</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+
+    <!--Menu Options-->
+    <string name="add_image">Add Image</string>
+    <string name="settings">Settings</string>
+    <string name="share_text">Share Text</string>
+    <string name="copy">Copy</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!--Storage Fragment-->
+    <string name="result">Result</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="dependencies_not_available">Detector dependencies are not yet available</string>
+
+    <!--Settings-->
+    <string-array name="pref_dark_mode_titles">
+        <item>Off</item>
+        <item>On</item>
+        <item>System</item>
+    </string-array>
+    <string-array name="pref_dark_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
